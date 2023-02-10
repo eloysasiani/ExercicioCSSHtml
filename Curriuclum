@@ -1,41 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-br">
- <cabeça>
- <título>Currículo</título>
+    <head>
+        <title>Curriculum</title>
         <meta charset="utf-8">
         <meta name="author" content="Seu nome aqui">
         <meta name="description" content="Curriculum">
         <meta name="keywords" content="Palavras Chaves">
- <estilo>
+        <style>
 
 
         .começo{
- largura: 50%;
- cor de fundo: aliceblue;
- alinhamento de texto: centro;
- largura: 300px;
- altura: 900px;
- flutuação: esquerda;
- margem: esquerda;
- preenchimento:esquerda;
+            width: 50%;
+            background-color: aliceblue;
+            text-align: center;
+            width: 300px;
+            height: 900px;
+            float: left;
+            margin: left;
+            padding:left;
         }
 
         .inicio{
- alinhamento de texto: centro;
- largura: 800px;
- altura: 900px;
- flutuação: esquerda;
- margem-topo: 0px;
+            text-align: center;
+            width: 800px;
+            height: 900px;
+            float: left;
+            margin-top: 0px;
             padding-top: 0px;
- borda superior: 0px;
+            border-top: 0px;
         }
         img{
- raio-fronteira: 100%;
+            border-radius: 100%;
         }
- </estilo>
- </cabeça>
- <corpo>
- <div class="bacalhau">
+        </style>
+    </head>
+    <body>
+        <div class="cod">
         <div class="começo">
         <img  src="https://th.bing.com/th/id/OIP.t27rYZS63-lY9k_weyHiGwHaHb?w=171&h=180&c=7&r=0&o=5&pid=1.7">
         <h2>Habilidades e Informações</h2>
@@ -45,8 +45,8 @@
         </div>
         <br>
             <div class="inicio">
- <h1>Tailândia da Costa Bezerra</h1>
- <p>Lacus luctus accumsan tortor posuere. Auctor augue mauris augue neque gravida in fermentum et. No tempor commodo ullamcorper a lacus vestibulum. Vel pharetra vel turpis nunc eget lorem dolor. Condimentum mattis pellentesque id nibh tortor id aliquet lectus. Enim eu turpis egestas pretium aenean. Iaculis urna id volutpat lacus laoreet non. Malesuada pellentesque elit eget gravida cum sociis natoque. Lacus suspendisse faucibus interdum posuere. Tempor orci eu lobortis elementum.</p>
+        <h1>Tailandia da Costa Bezerra</h1>
+        <p>Lacus luctus accumsan tortor posuere. Auctor augue mauris augue neque gravida in fermentum et. At tempor commodo ullamcorper a lacus vestibulum. Vel pharetra vel turpis nunc eget lorem dolor. Condimentum mattis pellentesque id nibh tortor id aliquet lectus. Enim eu turpis egestas pretium aenean. Iaculis urna id volutpat lacus laoreet non. Malesuada pellentesque elit eget gravida cum sociis natoque. Lacus suspendisse faucibus interdum posuere. Tempor orci eu lobortis elementum.</p>
     <br>
         <h3><b>Formações e Aprendizados</b></h3>
         <ol>
@@ -78,5 +78,5 @@
         </ol>
         </div>
     </div>
- </div>
+    </body>
 </html>
