@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+ <cabeça>
+ <título>Currículo</título>
+        <meta charset="utf-8">
+        <meta name="author" content="Seu nome aqui">
+        <meta name="description" content="Curriculum">
+        <meta name="keywords" content="Palavras Chaves">
+ <estilo>
+
+
+        .começo{
+ largura: 50%;
+ cor de fundo: aliceblue;
+ alinhamento de texto: centro;
+ largura: 300px;
+ altura: 900px;
+ flutuação: esquerda;
+ margem: esquerda;
+ preenchimento:esquerda;
+        }
+
+        .inicio{
+ alinhamento de texto: centro;
+ largura: 800px;
+ altura: 900px;
+ flutuação: esquerda;
+ margem-topo: 0px;
+            padding-top: 0px;
+ borda superior: 0px;
+        }
+        img{
+ raio-fronteira: 100%;
+        }
+ </estilo>
+ </cabeça>
+ <corpo>
+ <div class="bacalhau">
+        <div class="começo">
+        <img  src="https://th.bing.com/th/id/OIP.t27rYZS63-lY9k_weyHiGwHaHb?w=171&h=180&c=7&r=0&o=5&pid=1.7">
+        <h2>Habilidades e Informações</h2>
+        <p>22 Anos</p>
+        <p>Inglês Fluente</p>
+        <a href="linkedin.com"> Veja mais no meu perfil do Linkedin!</a>
+        </div>
+        <br>
+            <div class="inicio">
+ <h1>Tailândia da Costa Bezerra</h1>
+ <p>Lacus luctus accumsan tortor posuere. Auctor augue mauris augue neque gravida in fermentum et. No tempor commodo ullamcorper a lacus vestibulum. Vel pharetra vel turpis nunc eget lorem dolor. Condimentum mattis pellentesque id nibh tortor id aliquet lectus. Enim eu turpis egestas pretium aenean. Iaculis urna id volutpat lacus laoreet non. Malesuada pellentesque elit eget gravida cum sociis natoque. Lacus suspendisse faucibus interdum posuere. Tempor orci eu lobortis elementum.</p>
+    <br>
+        <h3><b>Formações e Aprendizados</b></h3>
+        <ol>
+        <h3>Lacus luctus accumsan tortor posuere.</h3>
+        <ol>Lacus luctus accumsan tortor <i>posuere</i>.</ol>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        <ol>Lacus luctus <b><i>tolomna</i></b>accumsan tortor posuere.</ol>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        </ol>
+        <br>
+        <ol>
+        <h3>Lacus luctus accumsan tortor posuere.</h3>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        <ol>Lacus luctus accumsan <i>tortor</i> posuere.</ol>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        <ol>Lacus <i>luctus</i> accumsan tortor posuere.</ol>
+        </ol>
+        <br>
+        <ol>
+        <h3><b>Experiencia</b></h3>
+        <h2>Lacus <i>luctus</i> accumsan tortor posuere.</h2>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        <ol>Lacus luctus <i>accumsan</i> tortor posuere.</ol>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        <ol>Lacus luctus accumsan tortor posuere.</ol>
+        <ol>Lacus luctus <i>accumsan</i> tortor posuere.</ol>
+        </ol>
+        </div>
+    </div>
+ </div>
+</html>
